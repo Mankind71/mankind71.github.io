@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to MTR's homepage!
+description: This is just to test and make a demo site hosted on github
 
 You can use the [editor on GitHub](https://github.com/Mankind71/mankind71.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
